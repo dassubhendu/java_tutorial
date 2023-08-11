@@ -1,4 +1,4 @@
-package StaticKeyword;
+package StaticKeyword001;
 
 public class TestStaticVariable {
     public static void main(String args[]) {

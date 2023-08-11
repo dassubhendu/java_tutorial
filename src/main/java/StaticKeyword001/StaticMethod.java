@@ -1,4 +1,4 @@
-package StaticKeyword;
+package StaticKeyword001;
 
 public class StaticMethod {
 

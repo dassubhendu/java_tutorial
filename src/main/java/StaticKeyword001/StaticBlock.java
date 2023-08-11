@@ -1,4 +1,4 @@
-package StaticKeyword;
+package StaticKeyword001;
 
 public class StaticBlock {
     static{System.out.println("This is Static Block");}

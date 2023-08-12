@@ -1,4 +1,6 @@
-package Polymorphism002;
+package Polymorphism002.MethodOverloading;
+
+import Polymorphism002.MethodOverloading.AddDifferentDataType;
 
 public class TestAddDifferentDataType {
     public static void main(String[] args){

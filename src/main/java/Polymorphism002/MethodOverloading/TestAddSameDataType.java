@@ -1,4 +1,6 @@
-package Polymorphism002;
+package Polymorphism002.MethodOverloading;
+
+import Polymorphism002.MethodOverloading.AddSameDataType;
 
 public class TestAddSameDataType {
     public static void main(String[] args){

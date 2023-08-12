@@ -3,3 +3,31 @@ Why is the Java main method static?
     If it were a non-static method, JVM creates an object first then call main() method
     that will lead the problem of extra memory allocation.
 ====================================================================================
+Where we can use static keyword?
+    Static keyword can be applied to variables,
+    methods, and nested class only and to define static block also.
+====================================================================================
+Can we Override static method?
+    No, We can't override static method in java.
+====================================================================================
+Can we Overload static method?
+    Yes, We can overload static method.
+====================================================================================
+Can we declare multiple static blocks in our code?
+    Yes, We can declare multiple static blocks and it will execute in the same order it defined.
+====================================================================================
+Can we call super class static method in sub class?
+    Yes, we can call super class static method in sub class but it can't override in sub class.
+====================================================================================
+Can constructor be static in java?
+    Constructor cannot be a static because static method belongs to the class,
+    not any object whereas constructor invoked at the time of object creation.
+====================================================================================
+Can we access non-static data member in static method in java?
+    No, We can't call non-static data member in static member in java.
+====================================================================================
+Can we use this and super in static context?
+    No, because this and super belongs to objects.
+====================================================================================
+Can abstract class have static variable in it?
+    Yes, We can define static variable in abstract class.
